@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://danyloshyshkovskyi.github.io/assets/theme/Danylo_Shyshkovskyi_Resume.pdf](https://danyloshyshkovskyi.github.io/assets/theme/Danylo_Shyshkovskyi_Resume.pdf)
 
-- ⚡ Fun fact **An advertisement for pills was my first work order.😅**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danylo-shyshkovskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danylo-shyshkovskyi" height="30" width="40" /></a>
