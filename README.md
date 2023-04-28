@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danylo Shyshkovskyi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Abventor](https://abventor.com/en)
-
 - 🌱 I’m currently learning **Typescript, Next.js, RTK Query**
 
 - 👨‍💻 All of my projects are available at [https://danyloshyshkovskyi.github.io/CV/](https://danyloshyshkovskyi.github.io/CV/)
